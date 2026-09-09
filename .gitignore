@@ -19,6 +19,7 @@ example.db
 .venv/
 venv/
 islp/
+.ipynb_checkpoints/
 
 # Downloaded course materials and installers
 course_materials/
