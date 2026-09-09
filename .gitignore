@@ -19,3 +19,6 @@ example.db
 .venv/
 venv/
 islp/
+
+# Downloaded course materials and installers
+course_materials/
